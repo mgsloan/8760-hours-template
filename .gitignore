@@ -1,0 +1,4 @@
+# Helps avoid checking personal files into the repo
+*-snapshot.md
+*-future.md
+*-implementation.md
