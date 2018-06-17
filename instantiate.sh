@@ -2,15 +2,15 @@
 
 DATE=$(date "+%Y-%m-%d")
 SNAPSHOT=$DATE-snapshot.md
-FUTURE=$DATE-future.md
+GOALS=$DATE-vision-and-goals.md
 IMPLEMENTATION=$DATE-implementation.md
 
 # Doubly ensure we're not clobbering an existing file.
 test ! -f $SNAPSHOT
-test ! -f $FUTURE
+test ! -f $GOALS
 test ! -f $IMPLEMENTATION
 
 # Copy the templates.
 cp -n snapshot.md $SNAPSHOT
-cp -n future.md $FUTURE
+cp -n vision-and-goals.md $GOALS
 cp -n implementation.md $IMPLEMENTATION
