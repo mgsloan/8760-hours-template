@@ -1,5 +1,8 @@
 # Yearly theme: Year of ____
 
+# Implementation strategy
+
+
 # Implementation of each goal
 
 (copy this template per goal)
