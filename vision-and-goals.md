@@ -2,32 +2,82 @@
 
 ## Values & Purpose
 
+### Ideals
+
+
+### Gaps
+
 
 ## Contribution & Impact
+
+### Ideals
+
+
+### Gaps
 
 
 ## Location & Tangibles
 
+### Ideals
+
+
+### Gaps
+
 
 ## Money & Finances
+
+### Ideals
+
+
+### Gaps
 
 
 ## Career & Work
 
+### Ideals
+
+
+### Gaps
+
 
 ## Health & Fitness
+
+### Ideals
+
+
+### Gaps
 
 
 ## Education & Skill Development
 
+### Ideals
+
+
+### Gaps
+
 
 ## Social Life & Relationships
+
+### Ideals
+
+
+### Gaps
 
 
 ## Emotions & Well-Being
 
+### Ideals
+
+
+### Gaps
+
 
 ## Character & Identity
+
+### Ideals
+
+
+### Gaps
 
 
 # Setting a focus: prioritization of areas (0-7)
