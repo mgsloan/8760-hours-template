@@ -17,10 +17,9 @@ Included templates:
   intention of answering these questions is to reflect on your past and present
   state.
 
-* <vision-and-goals.md> - a template for the section titled "The next 8,760
-  hours".
+* <vision.md> - a template for the section titled "The next 8,760 hours".
 
-- <implementation.md> - a template for the section titled "Optimizing for
+- <plan.md> - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
 I've included a script that can be run to create copies of the templates with
@@ -68,10 +67,10 @@ However, I figured I'd make a few comments:
     particularly helpful to depersonalize the weaknesses, as something that
     affects many people that share these particular traits.
 
-* I added an "Implementation strategy" section to </implementation.md>. My
-  reason for this is that I wanted to write down some guiding principles for
-  prioritizing. In particular, I made an observation about myself that might be
-  helpful to others:
+* I added an "Implementation strategy" section to <plan.md>. My reason for this
+  is that I wanted to write down some guiding principles for prioritizing. In
+  particular, I made an observation about myself that might be helpful to
+  others:
 
   - The things that you already have habits of spending lots of time on will
     tend to already be strong and have the least urgent problems. However,

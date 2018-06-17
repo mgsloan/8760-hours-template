@@ -1,4 +1,4 @@
-# Yearly theme: Year of ____
+# Theme: Year of ____
 
 # Implementation strategy
 

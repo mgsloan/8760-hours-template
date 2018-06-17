@@ -126,5 +126,5 @@
 # List of potential concrete one year goals
 
 Just one line per concrete, measurable goal. Details go in the next section,
-<implementation.md>. Possibly identify the associated area, and focus on
-prioritized areas:
+<plan.md>. Possibly identify the associated area, and focus on prioritized
+areas:
