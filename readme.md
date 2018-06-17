@@ -13,14 +13,14 @@ not necessary to answer every question, these are just to get you thinking.
 
 Included templates:
 
-* </snapshot.md> - a template for the section titled "A snapshot of you". The
+* <snapshot.md> - a template for the section titled "A snapshot of you". The
   intention of answering these questions is to reflect on your past and present
   state.
 
-* </vision-and-goals.md> - a template for the section titled "The next 8,760
+* <vision-and-goals.md> - a template for the section titled "The next 8,760
   hours".
 
-- </implementation.md> - a template for the section titled "Optimizing for
+- <implementation.md> - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
 I've included a script that can be run to create copies of the templates with
@@ -42,7 +42,7 @@ I changed the phrasing a bit on a few questions, but otherwise kept it pretty
 much verbatim. My goal here is not to inject my own opinions on how to reflect
 and steer one's life.
 
-One of the main differences in </snapshot.md> "is that I've combined together
+One of the main differences in <snapshot.md> "is that I've combined together
 the "initial overview" with the "detailed overview", and left out some questions
 in these sections that I found a bit redundant.
 
