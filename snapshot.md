@@ -175,7 +175,8 @@
 
 ### Am I cared for, loved, and valued by others?
 
-### If in an intimate relationship, are my partner and I aware of each other's needs and desires?
+
+### Do I have a partner? Are my partner and I aware of each other's needs and desires?
 
 ### What clubs, organizations, and communities am I a member of?
 
