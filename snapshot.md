@@ -32,8 +32,6 @@
 
 ### What do I truly value?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -53,8 +51,6 @@
 
 ### How much impact does my existence have (environmentally, socially, cognitively)?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -73,8 +69,6 @@
 ### How much stuff do I own? Do I have too many things?
 
 ### Is my life cluttered?
-
-### Short summary of this area:
 
 ### What is the most important problem here?
 
@@ -101,8 +95,6 @@
 
 ### Do I have any (unwanted) debt?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -123,8 +115,6 @@
 ### Am I well-positioned and networked within my industry?
 
 ### How stressful is my career / work?
-
-### Short summary of this area:
 
 ### What is the most important problem here?
 
@@ -151,8 +141,6 @@
 
 ### Are there any health risks that run in my family? Am I taking adequate steps to address these?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -169,8 +157,6 @@
 ### How much have I read in the past year?
 
 ### What talents and skills have I recently developed, or plan to develop?
-
-### Short summary of this area:
 
 ### What is the most important problem here?
 
@@ -195,8 +181,6 @@
 
 ### Do I have influence and status in my social circles? In society?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -219,8 +203,6 @@
 ### Do I have a regular mindfulness practice?
 
 ### Do I practice self-compassion?
-
-### Short summary of this area:
 
 ### What is the most important problem here?
 
@@ -265,8 +247,6 @@
 
 (etc)
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -288,8 +268,6 @@
 
 ### Do I have a good workspace environment and setup?
 
-### Short summary of this area:
-
 ### What is the most important problem here?
 
 ### What single thing, if successfully performed, would have the biggest impact here?
@@ -304,8 +282,6 @@
 ### What creative things have I done lately? In general?
 
 ### What are my hobbies? What do I do for fun?
-
-### Short summary of this area:
 
 ### What is the most important problem here?
 
