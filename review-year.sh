@@ -8,7 +8,7 @@ SNAPSHOT=$PWD/$DATE-snapshot.md
 VISION=$PWD/$DATE-vision.md
 PLAN=$PWD/$DATE-plan.md
 
-echo "This script copies markdown templates for following Alex Vermier's \"8760 hours\" guide for yearly review."
+echo "This script copies markdown templates for Alex Vermeer's \"8760 hours\" guide for yearly review."
 
 echo "Note that you can run it within a different directory to copy the templates to that location."
 echo ""
@@ -27,8 +27,8 @@ test ! -f $PLAN
 echo "Files don't exist, so copying the templates."
 
 # Copy the templates.
-cp -n $DIR/snapshot.md $SNAPSHOT
-cp -n $DIR/vision.md $VISION
-cp -n $DIR/plan.md $PLAN
+cp -n $DIR/snapshot-template.md $SNAPSHOT
+cp -n $DIR/vision-template.md $VISION
+cp -n $DIR/plan-template.md $PLAN
 
 echo "Successfully copied!"

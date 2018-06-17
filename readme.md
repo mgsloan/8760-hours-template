@@ -13,20 +13,29 @@ not necessary to answer every question, these are just to get you thinking.
 
 Included templates:
 
-* <snapshot.md> - a template for the section titled "A snapshot of you". The
-  intention of answering these questions is to reflect on your past and present
-  state.
+* <snapshot-template.md> - a template for the section titled "A snapshot of
+  you". The intention of answering these questions is to reflect on your past
+  and present state.
 
-* <vision.md> - a template for the section titled "The next 8,760 hours".
+* <vision-template.md> - a template for the section titled "The next 8,760
+  hours".
 
-- <plan.md> - a template for the section titled "Optimizing for
+- <plan-template.md> - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
-I've included a script that can be run to create copies of the templates with
+- <month-template.md> - a template for monthly review. Currently rather sparse.
+
+I've included a script that can be run to create copies of the yearly review templates with
 today's date prefixed:
 
 ```
-$ ./instantiate.sh
+$ ./review-year.sh
+```
+
+Similarly, there is a script to create a copy of the monthly review template:
+
+```
+$ ./review-month.sh
 ```
 
 # Differences with the guide
