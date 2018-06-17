@@ -42,6 +42,75 @@ I changed the phrasing a bit on a few questions, but otherwise kept it pretty
 much verbatim. My goal here is not to inject my own opinions on how to reflect
 and steer one's life.
 
-One of the main differences in <./snapshot-template.md> "is that I've combined
-together the "initial overview" with the "detailed overview", and left out some
-questions in these sections that I found a bit redundant.
+One of the main differences in </snapshot.md> "is that I've combined together
+the "initial overview" with the "detailed overview", and left out some questions
+in these sections that I found a bit redundant.
+
+# Some of my own suggestions beyond the guide
+
+I'm no expert in this stuff, still gathering information, doing experiments, and
+forming opinions.  I suspect that will be my state for quite some time :) .
+However, I figured I'd make a few comments:
+
+* It can be very informative to learn about the [Big Five personality traits][].
+  They are an interesting lens through which to view people's personalities,
+  particularly your own. The interesting thing about these traits is that they
+  are empirically derived from verbal descriptions of
+
+  - I didn't shop around much, but [IPIP-NEO][] seems like a decent
+    implementation of a big five trait test. It probably makes sense to take the
+    test before learning about the traits, if you are unfamiliar, to avoid
+    thinking much about which traits each question concerns.
+
+  - It is particularly informative to know which traits you are high or low in
+    (rather than being average). Typically being on either extreme has its own
+    set of strengths and weaknesses. Awareness of this is helpful. I find it
+    particularly helpful to depersonalize the weaknesses, as something that
+    affects many people that share these particular traits.
+
+* I added an "Implementation strategy" section to </implementation.md>. My
+  reason for this is that I wanted to write down some guiding principles for
+  prioritizing. In particular, I made an observation about myself that might be
+  helpful to others:
+
+  - The things that you already have habits of spending lots of time on will
+    tend to already be strong and have the least urgent problems. However,
+    hopefully they also correspond to your values, and so you are likely to be
+    biased towards continuing to spend lots of time in those areas.
+
+  - Since undernourished areas of life also tend to induce more fear and
+    discomfort, it can be all too easy to continue avoiding them. However,
+    bearable discomfort is often a sign of growth.
+
+    - I hypothesize that erring more towards these undernourished areas will
+    lead to more overall progress. There's likely to be more low-hanging fruit
+    in ignored orchards. There's also likely greater challenge, though, sticking
+    with the metaphor, you may need to plant some trees.
+
+* Be kind to yourself. Overactive self-shame and self-guilt are
+  counterproductive and can induce [self-handicapping][]. Negative emotions of
+  that ilk tend to correspond to avoidance, and so being a harsh critic is a
+  great way to cause yourself to not progress. Avoidance is the opposite of what
+  you want when it comes to positive growth. So be kind to yourself, while still
+  honestly facing your failings and weaknesses.
+
+    - Confronting your weaknesses can easily bring up harsh emotional
+      self-judgements. To address these constructively while maintaining a good
+      relationship with yourself, it's helpful to play the role of the
+      compassionate mentor. It's much easier said than done, but a degree of
+      objectivity and levity can help with constructively addressing areas
+      involving fear or pain.
+
+    - When strong emotions are involved, it can be easy to become unrealistic,
+      perhaps even delusional. Balancing the negativity out with some positivity
+      can be quite helpful for bringing things back into a well calibrated
+      perspective.
+
+    - One nice technique I got from somewhere or other is that it's
+      hard to be simultaneously fearful while being grateful. So if you can
+      shift your focus to genuine gratitude, this can greatly help in tempering
+      the negativity of challenging emotions.
+
+[Big Five personality traits]: https://en.wikipedia.org/wiki/Big_Five_personality_traits
+[IPIP-NEO]: http://www.personal.psu.edu/~j5j/IPIP/
+[self-handicapping]: https://en.wikipedia.org/wiki/Self-handicapping
