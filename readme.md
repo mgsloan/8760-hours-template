@@ -13,13 +13,13 @@ not necessary to answer every question, these are just to get you thinking.
 
 Included templates:
 
-* <./snapshot.md> - a template for the section titled "A snapshot of
-  you". The intention of answering these questions is to reflect on your past
-  and present state.
+* </snapshot.md> - a template for the section titled "A snapshot of you". The
+  intention of answering these questions is to reflect on your past and present
+  state.
 
-* <./future.md> - a template for the section titled "The next 8,760 hours".
+* </future.md> - a template for the section titled "The next 8,760 hours".
 
-- <./implementation.md> - a template for the section titled "Optimizing for
+- </implementation.md> - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
 I've included a script that can be run to create copies of the templates with
