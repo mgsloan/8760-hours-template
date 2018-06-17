@@ -8,8 +8,8 @@ pdf].
 
 These templates are not a replacement for the guide, and it's intended that you
 read the guide in order to give more context to this process. I'm publishing
-this template for others that want to follow this guide by .  Note that it is
-not necessary to answer every question, these are just to get you thinking.
+this template for others that want to follow this guide by . Note that it is not
+necessary to answer every question, these are just to get you thinking.
 
 Included templates:
 
@@ -23,10 +23,11 @@ Included templates:
 - [plan-template.md][] - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
-- [month-template.md][] - a template for monthly review. Currently rather sparse.
+- [month-template.md][] - a template for monthly review. Currently rather
+  sparse.
 
-I've included a script that can be run to create copies of the yearly review templates with
-today's date prefixed:
+I've included a script that can be run to create copies of the yearly review
+templates with today's date prefixed:
 
 ```
 $ ./review-year.sh
@@ -57,7 +58,7 @@ questions in these sections that I found a bit redundant.
 # Some of my own suggestions beyond the guide
 
 I'm no expert in this stuff, still gathering information, doing experiments, and
-forming opinions.  I suspect that will be my state for quite some time :) .
+forming opinions. I suspect that will be my state for quite some time :) .
 
 However, I figured I'd make a few misc. comments of some things that were on my
 mind when doing my own reflection and planning:
