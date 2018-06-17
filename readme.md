@@ -13,17 +13,17 @@ not necessary to answer every question, these are just to get you thinking.
 
 Included templates:
 
-* <snapshot-template.md> - a template for the section titled "A snapshot of
+* [snapshot-template.md][] - a template for the section titled "A snapshot of
   you". The intention of answering these questions is to reflect on your past
   and present state.
 
-* <vision-template.md> - a template for the section titled "The next 8,760
+* [vision-template.md][] - a template for the section titled "The next 8,760
   hours".
 
-- <plan-template.md> - a template for the section titled "Optimizing for
+- [plan-template.md][] - a template for the section titled "Optimizing for
   success". This does not cover the yearly calendar or prioritizing portions.
 
-- <month-template.md> - a template for monthly review. Currently rather sparse.
+- [month-template.md][] - a template for monthly review. Currently rather sparse.
 
 I've included a script that can be run to create copies of the yearly review templates with
 today's date prefixed:
@@ -50,20 +50,23 @@ I changed the phrasing a bit on a few questions, but otherwise kept it pretty
 much verbatim. My goal here is not to inject my own opinions on how to reflect
 and steer one's life.
 
-One of the main differences in <snapshot.md> "is that I've combined together
-the "initial overview" with the "detailed overview", and left out some questions
-in these sections that I found a bit redundant.
+One of the main differences in [snapshot-template.md][] "is that I've combined
+together the "initial overview" with the "detailed overview", and left out some
+questions in these sections that I found a bit redundant.
 
 # Some of my own suggestions beyond the guide
 
 I'm no expert in this stuff, still gathering information, doing experiments, and
 forming opinions.  I suspect that will be my state for quite some time :) .
-However, I figured I'd make a few comments:
+
+However, I figured I'd make a few misc. comments of some things that were on my
+mind when doing my own reflection and planning:
 
 * It can be very informative to learn about the [Big Five personality traits][].
   They are an interesting lens through which to view people's personalities,
-  particularly your own. The interesting thing about these traits is that they
-  are empirically derived from verbal descriptions of
+  particularly your own. It seems a bit less arbitrary than some other
+  personality trait models, since they were emprically derived via factor
+  analysis on verbal descriptors.
 
   - I didn't shop around much, but [IPIP-NEO][] seems like a decent
     implementation of a big five trait test. It probably makes sense to take the
@@ -76,10 +79,10 @@ However, I figured I'd make a few comments:
     particularly helpful to depersonalize the weaknesses, as something that
     affects many people that share these particular traits.
 
-* I added an "Implementation strategy" section to <plan.md>. My reason for this
-  is that I wanted to write down some guiding principles for prioritizing. In
-  particular, I made an observation about myself that might be helpful to
-  others:
+* I added an "Implementation strategy" section to [plan-template.md][]. My
+  reason for this is that I wanted to write down some guiding principles for
+  prioritizing. In particular, I made an observation about myself that might be
+  helpful to others:
 
   - The things that you already have habits of spending lots of time on will
     tend to already be strong and have the least urgent problems. However,
@@ -90,9 +93,9 @@ However, I figured I'd make a few comments:
     discomfort, it can be all too easy to continue avoiding them. However,
     bearable discomfort is often a sign of growth.
 
-    - I hypothesize that erring more towards these undernourished areas will
-    lead to more overall progress. There's likely to be more low-hanging fruit
-    in ignored orchards. There's also likely greater challenge, though, sticking
+  - I hypothesize that erring more towards these undernourished areas will lead
+    to more overall progress. There's likely to be more low-hanging fruit in
+    ignored orchards. There's also likely greater challenge, though, sticking
     with the metaphor, you may need to plant some trees.
 
 * Be kind to yourself. Overactive self-shame and self-guilt are
@@ -122,3 +125,7 @@ However, I figured I'd make a few comments:
 [Big Five personality traits]: https://en.wikipedia.org/wiki/Big_Five_personality_traits
 [IPIP-NEO]: http://www.personal.psu.edu/~j5j/IPIP/
 [self-handicapping]: https://en.wikipedia.org/wiki/Self-handicapping
+[snapshot-template.md]: snapshot-template.md
+[vision-template.md]: vision-template.md
+[plan-template.md]: plan-template.md
+[month-template.md]: month-template.md
