@@ -57,16 +57,17 @@ questions in these sections that I found a bit redundant.
 
 # Some of my own suggestions beyond the guide
 
-I'm no expert in this stuff, still gathering information, doing experiments, and
-forming opinions. I suspect that will be my state for quite some time :) .
+I ([mgsloan][]) am no expert in this stuff, still gathering information, doing
+experiments, and forming opinions. I suspect that will be my state for quite
+some time :) .
 
 However, I figured I'd make a few misc. comments of some things that were on my
 mind when doing my own reflection and planning:
 
-* Remember that this is just a scaffolding.  Naturally, feel free to
-  restructure, skip things, add more, etc.  Though, it may be valuable to
-  reflect on whether the impulse to skip some question is based in some
-  aversion. It may be valuable to confront the nature of this aversion.
+* Remember that this is just a scaffolding. Naturally, feel free to restructure,
+  skip things, add more, etc. Though, if skipping some questions, it may be
+  valuable to reflect on whether the impulse to skip is based in some aversion.
+  If so, it may be valuable to confront the nature of this aversion.
 
 * It can be very informative to learn about the [Big Five personality traits][].
   They are an interesting lens through which to view people's personalities,
@@ -135,3 +136,4 @@ mind when doing my own reflection and planning:
 [vision-template.md]: vision-template.md
 [plan-template.md]: plan-template.md
 [month-template.md]: month-template.md
+[mgsloan]: https://github.com/mgsloan
