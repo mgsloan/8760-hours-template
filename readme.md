@@ -63,6 +63,11 @@ forming opinions. I suspect that will be my state for quite some time :) .
 However, I figured I'd make a few misc. comments of some things that were on my
 mind when doing my own reflection and planning:
 
+* Remember that this is just a scaffolding.  Naturally, feel free to
+  restructure, skip things, add more, etc.  Though, it may be valuable to
+  reflect on whether the impulse to skip some question is based in some
+  aversion. It may be valuable to confront the nature of this aversion.
+
 * It can be very informative to learn about the [Big Five personality traits][].
   They are an interesting lens through which to view people's personalities,
   particularly your own. It seems a bit less arbitrary than some other
