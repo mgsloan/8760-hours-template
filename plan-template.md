@@ -15,10 +15,7 @@
 ### What will success look like? How will the world be *different* if this succeeds?
 
 
-### How can I measure it?
-
-
-### What sort of metrics (measurements) can I use to track progress and success?
+### How can I measure it - what sort of metrics can track progress and success?
 
 
 ### Uncertainties, and how to deal with them?
