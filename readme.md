@@ -1,6 +1,5 @@
-This repo contains a couple [markdown] templates based on the "A snapshot of
-you" section of Alex Vermeer's [8,760 hours]. Specifically, version 2 of [the
-pdf].
+This repo contains [markdown] templates based on Alex Vermeer's [8,760
+hours]. Specifically, version 2 of [the pdf].
 
 [8,760 hours]: https://alexvermeer.com/8760hours/
 [the pdf]:     https://drive.google.com/file/d/0B2PaeRjVqAN7MngxTXFPQkpLVjg/view
