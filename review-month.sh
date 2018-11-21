@@ -20,6 +20,6 @@ test ! -f $MONTH
 echo "File doesn't exist, so copying the template."
 
 # Copy the template.
-cp -n $DIR/month.md $MONTH
+cp -n $DIR/month-template.md $MONTH
 
 echo "Successfully copied!"
