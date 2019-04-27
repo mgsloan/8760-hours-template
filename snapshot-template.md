@@ -17,7 +17,6 @@
 
 # Areas of my life, present and past
 
-
 ## Values & Purpose
 
 ### Do I have a sense of purpose and direction in life?
@@ -216,9 +215,13 @@
 
 ### [Is my identity small?](http://paulgraham.com/identity.html)
 
-### What are my key strengths and weaknesses?
+### What are my key strengths?
 
-### What are my greatest virtues and vices?
+### What are my key weaknesses?
+
+### What are my greatest virtues?
+
+### What are my greatest vices?
 
 ### How do I rate my traits?
 
@@ -276,7 +279,7 @@
 
 ## Adventure & Creativity
 
-### Am I experiencing what Iw ant to experience in life?
+### Am I experiencing what I want to experience in life?
 
 ### What fun things have I done lately? In general?
 
